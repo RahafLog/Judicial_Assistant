@@ -17,10 +17,15 @@ three-tab structure of our user-centric website:
 - "Removing Names" tab as a transparent guide for name removal.
 
 This project was done by:
+
 Arwa Almutairi
+
 Rahaf Alluqmani
+
 Dhuha Alabdulwahab
+
 Jawaher Albaqami
+
 Haifa Abdulrahman
 
 
