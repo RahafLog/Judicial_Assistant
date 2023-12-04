@@ -16,6 +16,7 @@ three-tab structure of our user-centric website:
 - "Similar Cases" tab for efficient case discovery.
 - "Removing Names" tab as a transparent guide for name removal.
 
+_____________________________
 This project was done by:
 
 Arwa Almutairi
