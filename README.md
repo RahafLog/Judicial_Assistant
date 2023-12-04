@@ -1,4 +1,4 @@
-![image](https://github.com/RahafLog/Judicial_Assistant/assets/98055470/e6f44137-2b0b-4086-a8db-7f7003adce5b)# Judicial_Assistant
+# Judicial_Assistant
 This repository houses the codebase for a ChatBot designed to handle Saudi legal cases.
 Developed as the final project for the T5 SDAIA BootCamp, the ChatBot operates in Arabic and is powered by Large Language Models (LLM) and LangChain technology.
 
